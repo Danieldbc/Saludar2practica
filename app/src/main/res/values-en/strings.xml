@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saludar 2 practica</string>
+    <string name="HolaMon">Hello %s!</string>
+    <string name="Personalizar">Personalize</string>
+    <string name="aceptar">Take</string>
+    <string name="escribirNombre">Write the name</string>
+    <string name="mundo">world</string>
+</resources>
