@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saludar 2 practica</string>
+    <string name="HolaMon">Hola %s!</string>
+    <string name="Personalizar">Personalizar</string>
+    <string name="escribirNombre">Escriba el nombre</string>
+    <string name="aceptar">Aceptar</string>
+</resources>
